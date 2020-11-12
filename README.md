@@ -1,3 +1,3 @@
 # ServiceLocator
 
-A description of this package.
+Lightweight service locator implementation in Swift
